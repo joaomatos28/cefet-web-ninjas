@@ -1,0 +1,33 @@
+
+.logo{
+    width: 200px;
+}
+
+img.block-center{
+    display: block;
+    align-content: center;
+}
+
+img:not(.logo){
+    border-radius: 10px;
+}
+
+h1,h2.title-font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link{
+    color:cornflowerblue;
+}
+
+a:visited{
+    color:goldenrod;
+}
+
+a:hover{
+    color:greenyellow;
+}
+
+a:active {
+    color:green
+}
